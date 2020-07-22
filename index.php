@@ -27,7 +27,7 @@
             <h2>Josephus Problem</h2>
 
             <p>
-                <span style="background-color: #e74c3c; padding: 5px 20px 5px 20px; color: #ffffff;">Value range : 2 to 200,000,000</span>
+                <span style="background-color: #e74c3c; padding: 5px 20px 5px 20px; color: #ffffff;">Value range : 1 to 200,000,000</span>
             </p>
 
             <form onsubmit="window.calculate(event);">
